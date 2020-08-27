@@ -6,7 +6,7 @@ listawal=[[1,2,3],[4,5,6],[7,8,9]]
 
 def counterclockwise(listawal): # Buat function dgn nama counterclockwise dengan parameter listawal
     rotatelist=[] #Membuat list kosong untuk diisi i yang sudah dirotasi dari kondisi-kondisi di bawah
-    panjanglist= len(listawal)
+    panjanglist= len(listawal) #Membuat variabel length dari listawal
     for i in range(panjanglist): # buat looping dgn panjang list(len dari list awal)
         rotatelist.append([]) #tambahkan bracket kosong ke rotatelist
     for i in range(panjanglist): # buat looping dgn panjang list(len dari list awal)
