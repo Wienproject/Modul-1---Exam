@@ -1,4 +1,4 @@
-# Ujian-Modul-1-Michael-Prasetya
+# Modul-1-Exam Michael-Prasetya
 
 Soal 1
 def timeconverter(seconds): #Buat function timeconverter dgn parameter second
